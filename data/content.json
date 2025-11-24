@@ -1,0 +1,154 @@
+{
+  "about": [
+    "Innovative and impact-driven research scientist with over a decade of experience in Human-Computer Interaction (HCI), design methodologies, and conversational interfaces.",
+    "Proven track record of publishing influential work, securing patents, and leading interdisciplinary teams at IBM Research. Passionate about bridging academic rigor with industrial innovation to create user-centered technologies that scale.",
+    "Over 1k citations across top-tier HCI conferences and journals, designing trustworthy, inclusive UX for AI-driven systems."
+  ],
+  "education": [
+    {
+      "degree": "PhD in Computer Science, 2012",
+      "institution": "University of Brighton, UK",
+      "Committee": , 
+      "Dissertation" "Design for outdoor mobile multimedia: representation, content and interactivity for mobile tourist guides.",
+       
+
+
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Research Scientist",
+      "org": "IBM Research – Brazil",
+      "period": "—",
+      "location": "São Paulo, Brazil",
+      "bullets": [
+        "Led pioneering research in conversational UX, chatbot design, and cognitive computing.",
+        "Collaborated with global teams on multi-party conversational systems and voice-based interfaces.",
+        "Co-inventor on multiple patents related to dynamic cognitive interfaces and blockchain-based energy management.",
+        "Published extensively in top-tier venues including CHI, CSCW, and IHC.",
+        "Mentored junior researchers and contributed to strategic initiatives at C4AI – University of São Paulo."
+      ]
+    }
+  ],
+  "impact": {
+    "citations_total": 1251,
+    "citations_since_2020": 1043,
+    "hindex": 20,
+    "i10": 43
+  },
+  "news": [
+    {
+      "date": "2025-11",
+      "text": "CHI’25 paper on Responsible Prompting recommendations accepted."
+    },
+    {
+      "date": "2024-11",
+      "text": "Co-organized workshop on Latin American‑centric CSCW research (CSCW’24)."
+    }
+  ],
+  "publications": {
+    "CHI": [
+      {
+        "title": "Typefaces and the Perception of Humanness in Natural Language Chatbots",
+        "venue": "CHI",
+        "year": 2017,
+        "pdf": "https://dlnext.acm.org/doi/pdf/10.1145/3025453.3025919"
+      },
+      {
+        "title": "The Effect of Audiences on the User Experience with Conversational Interfaces in Physical Spaces",
+        "venue": "CHI",
+        "year": 2019,
+        "doi": "https://doi.org/10.1145/3290605.3300320",
+        "link": "https://research.ibm.com/publications/the-effect-of-audiences-on-the-user-experience-with-conversational-interfaces-in-physical-spaces"
+      }
+    ],
+    "CSCW": [
+      {
+        "title": "Decolonizing Learning Spaces for Sociotechnical Research and Design",
+        "venue": "CSCW Companion",
+        "year": 2020,
+        "doi": "https://doi.org/10.1145/3406865.3418592"
+      },
+      {
+        "title": "Making Conversational Robots Learn from Children in a Collaborative Museum Exhibition",
+        "venue": "CSCW Companion",
+        "year": 2021,
+        "pdf": "https://web.archive.org/web/20211026024816/https://dl.acm.org/doi/pdf/10.1145/3462204.3482888"
+      },
+      {
+        "title": "Unveiling Practices of Customer Service Content Curators of Conversational Agents",
+        "venue": "PACM HCI (CSCW2)",
+        "year": 2022,
+        "doi": "https://doi.org/10.1145/3555768"
+      }
+    ],
+    "recent": [
+      {
+        "title": "Responsible Prompting Recommendation: Fostering Responsible AI Practices in Prompting‑Time",
+        "venue": "CHI",
+        "year": 2025,
+        "pdf": "https://dl.acm.org/doi/epdf/10.1145/3706598.3713365"
+      },
+      {
+        "title": "Emerging Data Practices: Data Work in the Era of Large Language Models",
+        "venue": "CHI",
+        "year": 2025
+      },
+      {
+        "title": "Designing conversational agent(ic) systems",
+        "venue": "CUI",
+        "year": 2025,
+        "pdf": "https://dl.acm.org/doi/epdf/10.1145/3719160.3728630"
+      },
+      {
+        "title": "Conversational Health Interfaces in the Era of LLMs",
+        "venue": "CUI",
+        "year": 2025
+      },
+      {
+        "title": "Fostering Latin American‑Centric CSCW Research and Practice",
+        "venue": "CSCW Companion",
+        "year": 2024
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Conversational Agents for Support",
+      "meta": "IBM Research — 2024–2025",
+      "summary": "Prototyping chatbot experiences balancing efficiency and transparency.",
+      "links": [
+        {
+          "label": "Case study",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "title": "Responsible AI Practices",
+      "meta": "Design Ops — 2023–2024",
+      "summary": "Method cards and playbooks for fairness, transparency and evaluation."
+    }
+  ],
+  "service": [
+    {
+      "role": "Co‑Chair, ACM SIGCHI LATAM Committee",
+      "org": "ACM SIGCHI",
+      "period": "Dec 2023 – present"
+    },
+    {
+      "role": "Member, SIGCHI Volunteer Development Committee",
+      "org": "ACM SIGCHI",
+      "period": "~2021 – 2023"
+    },
+    {
+      "role": "Workshop Co‑organizer: Fostering Latin American‑Centric CSCW Research and Practice",
+      "org": "CSCW 2024",
+      "period": "Nov 2024"
+    }
+  ],
+  "teaching": [
+    "Guest lectures on Conversational UX and Human‑Centered AI",
+    "Workshops: Designing agent(ic) conversational systems (CUI’25 tutorial)"
+  ]
+}
